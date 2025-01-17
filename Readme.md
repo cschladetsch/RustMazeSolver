@@ -6,6 +6,8 @@ A command-line maze generator and solver that uses the IDA* (Iterative Deepening
 
 ![MazeDemo](/resources/RustMaze.gif)
 
+Note that the demo fails on occasion. It was from an earlier build. The actual code always works.
+
 ## Features
 
 - Generates random mazes using a depth-first search algorithm
