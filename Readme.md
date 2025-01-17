@@ -2,6 +2,10 @@
 
 A command-line maze generator and solver that uses the IDA* (Iterative Deepening A-star) algorithm to find paths through randomly generated mazes.
 
+## Demo
+
+![MazeDemo](/resources/RustMaze.gif)
+
 ## Features
 
 - Generates random mazes using a depth-first search algorithm
